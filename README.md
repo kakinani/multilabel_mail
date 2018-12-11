@@ -1,2 +1,1 @@
-# multilabel_mail
-Multilabel classification
+# multilabel_enron
